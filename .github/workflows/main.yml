@@ -25,4 +25,5 @@ jobs:
         uses: Platane/snk@v0.0.18
         with:
           # github user name
-          github_user_name: ninito-ph
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./snake.gif
