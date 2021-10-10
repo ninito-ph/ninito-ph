@@ -55,19 +55,15 @@
 
 </p>
 
-<!-- 
-<h2 align="center">
-  My Contribution Graph 📊
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-
 <h2 align="center">
   My Github Stats 🧑‍💻
 </h2>
  
 <br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/snake.svg" alt="snake"></center>
+</p>
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=ninito-ph&show_icons=true&theme=tokyonight&line_height=27">
