@@ -1,0 +1,28 @@
+name: Update Profile
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v0.0.18
+        with:
+          # github user name
+          github_user_name: ninito-ph
