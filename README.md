@@ -15,6 +15,8 @@
   Hey there 👋! I'm a Digital Games Engineering 🎓 student from PUC Minas University in Brazil. I'm a self-guided learner, fueled by passion for bringing games to life using code 🧑‍💻. I specialize in tools 🔧 development for games, allowing artists and designers to make more content in less time ⏱️. I also enjoy writing ✍️ about things I've learned, be it about code, D&D 🐲 or something else entirely! Currently working on my C++ skills and making modular tools for Unity!
 </p>  
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=poprock360&count=3&unique=true&width=1000)
+
 <h2 align="center">Technology Stack 🔬</h2>
 
 <p align="center">
@@ -50,6 +52,7 @@
  <a href="https://www.artstation.com/ninito">
  <img src="https://img.shields.io/badge/-Paulo Oliveira-black?style=flat-square&logo=artstation&logoColor=blue&link=https://www.artstation.com/ninito"/>
 </a>
+
 </p>
 
 <!-- 
