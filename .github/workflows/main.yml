@@ -21,14 +21,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate-snake-game-gif
+      - name: generate-snake-game-svg
         uses: Platane/snk@v0.0.18
         with:
           # github user name
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/snake.gif
+          svg_out_path: dist/snake.svg
 
-      - name: generate-snake-game-gif
+      - name: push-svg-to-output
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
