@@ -4,7 +4,7 @@
  <a href="https://ninito.webflow.io">
   <img src="https://imgur.com/kxyIJFk.png"/>
 
-<h2 align="center">Hi, my name's Paulo! I'm a software engineer that loves DevOps and games 👋</h2>
+<h2 align="center">Hi 👋 My name's Paulo! I'm a software engineer that loves DevOps and games</h2>
 
 
 <p align="center">
