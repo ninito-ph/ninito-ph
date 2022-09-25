@@ -4,18 +4,11 @@
  <a href="https://ninito.webflow.io">
   <img src="https://imgur.com/kxyIJFk.png"/>
 
-<h2 align="center">Hi, my name's Paulo! I make games and tools 👋</h2>
+<h2 align="center">Hi, my name's Paulo! I'm a software engineer that loves DevOps and games 👋</h2>
+
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ninito-ph/ninito-ph"/> 
- <img src="https://badges.pufler.dev/repos/ninito-ph"/>
- <img src="https://badges.pufler.dev/commits/monthly/ninito-ph" />
-
-</p>
-
-<p align="center">
-👋 I'm a self-driven, self-taught game programmer who has always been entranced by the magic of videogames. I've coded my first game way back in high school, and have continued to code games ever since. 🎮
+👋 I'm a self-driven software engineer with a diverse skillset and strong coding skills. I've coded my first full project way back in high school, and have continued to explore more tech ever since. I have a background in games development, and have worked in small indie studios as well as large FAANG companies. 🎮
 </p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=poprock360&count=3&unique=true&width=1000)
