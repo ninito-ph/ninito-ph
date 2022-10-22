@@ -20,8 +20,8 @@
 <br>
 
 <p align="center">
-  ![GitHub Snake Light](github-snake-light.svg#gh-light-mode-only)
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![GitHub Snake Light](dist/github-snake-light.svg#gh-light-mode-only)
+  ![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 </p>
 
 <p align = "center">
