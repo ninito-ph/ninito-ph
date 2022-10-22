@@ -19,9 +19,9 @@
  
 <br>
 
-<p align="center">
-  ![GitHub Snake Light](dist/github-snake-light.svg#gh-light-mode-only)
-  ![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+<p align = "center">
+  <img src = "https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/github-snake-dark.svg#gh-dark-mode-only">
+  <img src = "https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/github-snake-light.svg#gh-light-mode-only">
 </p>
 
 <p align = "center">
