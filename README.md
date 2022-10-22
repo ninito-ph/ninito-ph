@@ -20,8 +20,10 @@
 <br>
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/github-snake-dark.svg#gh-dark-mode-only">
-  <img src = "https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/github-snake-light.svg#gh-light-mode-only">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/github-snake-dark.svg">
+  <img alt="Commit Snake Game!" src="https://raw.githubusercontent.com/ninito-ph/ninito-ph/output/github-snake-light.svg#gh-light-mode-only">
+ </picture>
 </p>
 
 <p align = "center">
